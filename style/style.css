@@ -28,8 +28,8 @@
 article{ background: #42a4f4 }
 aside, details,
 figcaption, figure,
-footer{ background: #0f1e2d }
-header{ background: #0f1e2d } 
+footer{ background: #42a4f4 }
+header{ background: #42a4f4 } 
 hgroup,
 main, nav, section,
 summary { display: block; }
@@ -41,7 +41,7 @@ html {
    -ms-text-size-adjust: 100%;
    -webkit-text-size-adjust: 100%;
 }
-body { margin: 0; background: #0f1e2d }
+body { margin: 0; background: #42a4f4 }
 a { background: transparent; }
 a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0;}
@@ -729,7 +729,7 @@ margin on the iframe, cause it breaks stuff. */
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #0f1e2d;
+    background: #42a4f4;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
